@@ -21,11 +21,9 @@ Inport images as needed.
 Create pages based on your need and link them.
 
 ### Step 6:
-
 Validate the HTML and CSS code.
 
-### Step 6:
-
+### Step 7:
 Publish the website in the given URL.
 
 ## DESIGN TOOL:
@@ -146,9 +144,9 @@ top: 91px;
 background: url(logo.png);
 ```
 ## OUTPUT:
-![OUTPUT](event-registration/output1.png)
-![OUTPUT](event-registration/output2.png)
-![OUTPUT](event-registration/output3.png) 
+![OUTPUT](event-registration/images/output1.png)
+![OUTPUT](event-registration/images/output2.png)
+![OUTPUT](event-registration/images/output3.png) 
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
