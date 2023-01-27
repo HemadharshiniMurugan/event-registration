@@ -144,9 +144,9 @@ top: 91px;
 background: url(logo.png);
 ```
 ## OUTPUT:
-![OUTPUT](event-registration/images/output1.png)
-![OUTPUT](event-registration/images/output2.png)
-![OUTPUT](event-registration/images/output3.png) 
+![OUTPUT](event-registration/static/images/output1.png)
+![OUTPUT](event-registration/static/images/output2.png)
+![OUTPUT](event-registration/static/images/output3.png) 
 
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
